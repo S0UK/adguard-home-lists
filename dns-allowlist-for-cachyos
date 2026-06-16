@@ -1,4 +1,4 @@
-# ==== CachyOS Repository Mirror List For Adguard Home ====
+# ==== DNS allowlist for CachyOS with Adguard Home ====
 @@||mirror.krfoss.org^$important
 @@||mirror5.krfoss.org^$important
 @@||mirror.lesviallon.fr^$important
