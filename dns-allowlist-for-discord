@@ -1,0 +1,17 @@
+# ==== DNS allowlist for Discord with Adguard Home ====
+@@||gamerpower.com
+@@||api.hcaptcha.com^$important
+@@||discord-attachments-uploads-prd.storage.googleapis.com^$important
+@@||discord.co^$important
+@@||discord.com^$important
+@@||discord.dev^$important
+@@||discord.gg^$important
+@@||discord.gift^$important
+@@||discord.media^$important
+@@||discord.new^$important
+@@||discordapp.com^$important
+@@||discordapp.net^$important
+@@||discordcdn.com^$important
+@@||discordstatus.com^$important
+@@||dis.gd^$important
+@@||media.discordapp.net^$important
