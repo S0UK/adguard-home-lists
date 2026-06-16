@@ -1,4 +1,4 @@
-# DNS allowlist for Bitdefender with Adguard Home
+# ==== DNS allowlist for Bitdefender with Adguard Home ====
 @@||bitdefender.de^$important
 @@||bitdefender.be^$important
 @@||bitdefender.co.uk^$important
