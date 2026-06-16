@@ -1,0 +1,22 @@
+# ==== DNS allowlist for Ewelink (Sonoff) with Adguard Home ====
+@@||ewelink.cc^$important
+@@||eu-apia.coolkit.cc^$important
+@@||ewelink.cc^$important
+@@||eu-disp.coolkit.cc^$important
+@@||eu-dispa.coolkit.cc^$important
+@@||eu-dispd.coolkit.cc^$important
+@@||eu-pconnect1.coolkit.cc^$important
+@@||eu-pconnect2.coolkit.cc^$important
+@@||eu-pconnect3.coolkit.cc^$important
+@@||eu-pconnect5.coolkit.cc^$important
+@@||eu-pconnect6.coolkit.cc^$important
+@@||eu-pconnect7.coolkit.cc^$important
+@@||eu-pconnect8.coolkit.cc^$important
+@@||eu-pconnect9.coolkit.cc^$important
+@@||eu-pconnect10.coolkit.cc^$important
+@@||eu-pconnect11.coolkit.cc^$important
+@@||eu-pconnect12.coolkit.cc^$important
+@@||eu-pconnect13.coolkit.cc^$important
+@@||eu-pconnect14.coolkit.cc^$important
+@@||eu-pconnect15.coolkit.cc^$important
+@@||eu-pconnect20.coolkit.cc^$important
