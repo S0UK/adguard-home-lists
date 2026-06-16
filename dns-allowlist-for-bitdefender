@@ -1,0 +1,21 @@
+# DNS allowlist for Bitdefender with Adguard Home
+@@||bitdefender.de^$important
+@@||bitdefender.be^$important
+@@||bitdefender.co.uk^$important
+@@||bitdefender.com^$important
+@@||bitdefender.com.au^$important
+@@||bitdefender.es^$important
+@@||bitdefender.fr^$important
+@@||bitdefender.it^$important
+@@||bitdefender.nl^$important
+@@||bitdefender.pt^$important
+@@||bitdefender.ro^$important
+@@||download.bitdefender.com^$important
+@@||eu.nimbus.bitdefender.net^$important
+@@||mclb-gcp.nimbus.bitdefender.net^$important
+@@||nimbus.bitdefender.net^$important
+@@||push.bitdefender.net^$important
+@@||upgr-mmxxiii-cl-ts-p.2d8cd.cdn.bitdefender.net^$important
+@@||upgr-mmxxiii-cl-ts.2d8cd.cdn.bitdefender.net^$important
+@@||us.nimbus.bitdefender.net^$important
+@@||bitdefender.sc.omtrdc.net^$important
