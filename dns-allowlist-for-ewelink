@@ -1,5 +1,6 @@
 # ==== DNS allowlist for Ewelink (Sonoff) with Adguard Home ====
 @@||ewelink.cc^$important
+@@||forum.ewelink.cc^$important
 @@||eu-apia.coolkit.cc^$important
 @@||ewelink.cc^$important
 @@||eu-disp.coolkit.cc^$important
