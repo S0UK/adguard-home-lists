@@ -1,3 +1,4 @@
+# ==== DNS allowlist for Steam (Valve) with Adguard Home ====
 @@||steamcommunity.com^$important
 @@||steamcontent.com^$important
 @@||steamgames.com^$important
